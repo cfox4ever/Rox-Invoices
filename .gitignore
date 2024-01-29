@@ -20,3 +20,7 @@ media/
 
 # Virtual environment
 venv/
+# delete venv folder from git
+venv/
+# delete all .pyc files from git
+*.pyc
