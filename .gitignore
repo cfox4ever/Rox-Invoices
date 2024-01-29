@@ -9,6 +9,7 @@ __pycache__/
 
 # Django static files
 staticfiles/
+static/
 *.pyc
 
 # Django media files
