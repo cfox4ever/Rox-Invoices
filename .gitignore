@@ -1,1 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Django project settings
+*.env
+*.sqlite3
+
+# Django static files
+staticfiles/
+static/
+*.pyc
+
+# Django media files
+media/
+
+# Django logs
+*.log
+
+# Virtual environment
+venv/
